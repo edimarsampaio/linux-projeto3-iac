@@ -1,3 +1,8 @@
+# Configuração aplicada em um cenário com 3 servidores Linux Ubuntu Server 22
+
+Esta fase final do projeto foi mais desafiadora, já tive contato com a tecnologia, através de um outro curso do Denilson Bonatti, Plataforma Udemy.
+Excelente didática aplicada, foi um suporte patra realizar a tarefa.
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
